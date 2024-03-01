@@ -1,3 +1,7 @@
+
+<img width="1439" alt="Screenshot 2024-03-01 at 16 00 06" src="https://github.com/ArtyomZayarny/booking-fe/assets/15728688/3c557b4c-d270-468b-9820-4263137ae7c4">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
